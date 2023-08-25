@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beyza\\source\\repos\\EntityLayer\\EntityLayer.csproj": {}
+    "C:\\Users\\Beyza Yeşilyurt\\Desktop\\Traversal\\EntityLayer\\EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beyza\\source\\repos\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\Beyza Yeşilyurt\\Desktop\\Traversal\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beyza\\source\\repos\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Beyza Yeşilyurt\\Desktop\\Traversal\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\Beyza\\source\\repos\\EntityLayer\\EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\Beyza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beyza\\source\\repos\\EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\Beyza Yeşilyurt\\Desktop\\Traversal\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\Beyza Yeşilyurt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Beyza Yeşilyurt\\Desktop\\Traversal\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Beyza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Beyza Yeşilyurt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
